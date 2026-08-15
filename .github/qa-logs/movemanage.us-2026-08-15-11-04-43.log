@@ -1,0 +1,22 @@
+=== Chrome DevTools Console Log Export ===
+URL: https://movemanage.us/app/move-hub-1/jobs/5114420
+Page Title: Job - C7265020 - MOVE HUB - MoveManage
+Export Timestamp: 2026-08-15T08:04:43.761Z
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+Platform: Win32
+Viewport: 1747x1128 (DPR 1)
+
+=== Console Messages (4 entries) ===
+[08:04:17.202] [LOG  ] {}
+[08:04:17.203] [LOG  ] App Email
+[08:04:20.041] [LOG  ] {"pickup_confirm":false,"customer_name":"Paul Pendergast","customer_email":"pvpendergast@sbcglobal.net","broker_email":"customerservice@coastalmovingservices.com","pickup_date":"","pickup_time":"","pickup_time_window":"","pickup_notes":"","delivery_date":"","delivery_time":null,"delivery_time_window":null,"delivery_notes":null,"confirmations":[],"job_id":5114420,"job_number":"C7265020","job_from_state":"NC","job_to_state":"CA","pickup_date_window":null,"delivery_date_window":null}
+[08:04:20.063] [LOG  ] {"pickup_confirm":false,"customer_name":"Paul Pendergast","customer_email":"pvpendergast@sbcglobal.net","broker_email":"customerservice@coastalmovingservices.com","pickup_date":"07/16/2025","pickup_time":"11:00 AM","pickup_time_window":"12:00 AM","pickup_notes":null,"delivery_date":"","delivery_time":"","delivery_time_window":"","delivery_notes":"","confirmations":{"customer":[{"author":"test-MOVE HUB","date":"07/22/2025 03:35 PM","message":"Your estimated window for arrival is 07/16/2025 at 11:00 AM 12:00 AM, and the driver will call you 30 minutes prior to arrival.\n\nThanks!","title":"Pickup ETA Conf. - C7265020 - Paul Pendergast NC-CA","cc":null,"email":"pvpendergast@sbcglobal.net","status":"sent"}]},"job_id":5114420,"job_number":"C7265020","job_from_state":"NC","job_to_state":"CA","pickup_date_window":null,"delivery_date_window":null}
+
+=== Network Activity (5 entries) ===
+[08:04:17.202] 200          https://movemanage.us/api/company/move-hub-1/jobs/5114420/email-confirmation?type=delivery&job_id=5114420 (2839ms)
+[08:04:17.201] 200          https://movemanage.us/api/company/move-hub-1/jobs/5114420/email-confirmation?type=pickup&job_id=5114420 (2862ms)
+[08:04:17.202] 200          https://movemanage.us/api/company/move-hub-1/jobs/5114420/voice-confirmation?type=delivery&job_id=5114420 (3159ms)
+[08:04:17.201] 200          https://movemanage.us/api/company/move-hub-1/jobs/5114420/voice-confirmation?type=pickup&job_id=5114420 (3232ms)
+[08:04:17.202] 200          https://movemanage.us/api/company/move-hub-1/jobs/5114420/reviews (3464ms)
+
+=== End of DevTools Log ===
