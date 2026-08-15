@@ -1,0 +1,44 @@
+=== Chrome DevTools Console Log Export ===
+URL: https://movemanage.us/app/move-hub-1/jobs
+Page Title: Jobs - MOVE HUB - MoveManage
+Export Timestamp: 2026-08-15T08:10:42.659Z
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+Platform: Win32
+Viewport: 1747x1128 (DPR 1)
+
+=== Console Messages (29 entries) ===
+[08:10:20.000] [LOG  ] DOM loaded, initializing guest functionality
+[08:10:20.512] [LOG  ] initJobForm called, isJobFormInitialized: false
+[08:10:20.512] [LOG  ] First time initialization
+[08:10:20.512] [LOG  ] Initializing step-based method selection
+[08:10:20.512] [LOG  ] Initializing AI form
+[08:10:20.512] [LOG  ] AI context: company
+[08:10:20.513] [LOG  ] Added click handler to AI submit button
+[08:10:20.513] [LOG  ] Reinitializing form components
+[08:10:20.513] [LOG  ] Initializing datepickers...
+[08:10:20.513] [LOG  ] Found datepickers: 3
+[08:10:20.513] [LOG  ] Initializing flatpickr for: date_move
+[08:10:20.514] [LOG  ] Initializing flatpickr for: date_window
+[08:10:20.514] [LOG  ] Initializing flatpickr for: fad_cf
+[08:10:20.514] [LOG  ] Initializing zip typeahead...
+[08:10:20.517] [LOG  ] Initializing CF form ZIP typeahead...
+[08:10:20.517] [LOG  ] Setting up CF typeahead for: #from_zip_cf
+[08:10:20.517] [LOG  ] Setting up CF typeahead for: #to_zip_cf
+[08:10:20.518] [LOG  ] Initializing estimate company DOT typeahead...
+[08:10:20.519] [LOG  ] Initializing back buttons
+[08:10:20.519] [LOG  ] Initializing address edit buttons
+[08:10:20.519] [LOG  ] Initializing subcontractor checkbox
+[08:10:20.519] [LOG  ] Initializing storage handlers
+[08:10:20.527] [LOG  ] Initializing guest functionality
+[08:10:20.527] [LOG  ] Initializing Quick Register module
+[08:10:20.527] [WARN ] Quick register offcanvas not found
+[08:10:20.527] [LOG  ] Guest functionality initialized
+[08:10:20.527] [LOG  ] Initializing guest contact form
+[08:10:20.527] [LOG  ] Guest contact form not found
+[08:10:20.527] [LOG  ] Guest functionality initialized
+
+=== Network Activity (2 entries) ===
+[08:10:20.274] 200          https://www.google-analytics.com/g/collect?v=2&tid=G-EJHCNC19C9&gtm=45je68c1v9198273709za200zd9198273709&_p=1786781419934&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1256308118.1773775594&frm=0&ngs=1&pscdl=noapi&rcb=7&sr=2560x1440&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B151.0.7922.138%7CChromium%3B151.0.7922.138&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=uk-ua&_s=1&tag_exp=115938465~115938469~118897920~118897930~119367802~119367810~119381662~119527019~120213116~120385422&sid=1786772438&sct=73&seg=1&dl=https%3A%2F%2Fmovemanage.us%2Fapp%2Fmove-hub-1%2Fjobs&dr=https%3A%2F%2Fmovemanage.us%2Fapp%2Fmove-hub-1&dt=Jobs%20-%20MOVE%20HUB%20-%20MoveManage&en=page_view&_ee=1&tfd=1937 (89ms)
+[08:10:20.010] 200          https://movemanage.us/api/company/move-hub-1/custom-fields (699ms)
+
+=== End of DevTools Log ===
