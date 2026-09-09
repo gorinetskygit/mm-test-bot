@@ -1,0 +1,148 @@
+=== Chrome DevTools Console Log Export ===
+URL: https://chatgpt.com/share/6a2c4eab-b7f0-83eb-99d3-7875da25e53f
+Page Title: (none)
+Export Timestamp: 2026-09-09T14:30:25.327Z
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+Platform: Unknown
+Viewport: N/A
+
+=== Console Messages (9 entries) ===
+[14:30:24.110] [ERROR]  ERROR  [Statsig] A networking error occurred during POST request to https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964223577&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=4&gz=1. NetworkError: NetworkError: https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964223577&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=4&gz=1 {
+  "error": {
+    "message": "Could not parse your authentication token. Please try signing in again.",
+    "type": null,
+    "code": "unauthorized_unknown",
+    "param": null
+  },
+  "status": 401
+} NetworkError: NetworkError: https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964223577&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=4&gz=1 {
+  "error": {
+    "message": "Could not parse your authentication token. Please try signing in again.",
+    "type": null,
+    "code": "unauthorized_unknown",
+    "param": null
+  },
+  "status": 401
+}
+    at e.default.<anonymous> (https://chatgpt.com/cdn/assets/2340486e-mv6mwwnc1v5j1b2x.js:29:131688)
+    at Generator.next (<anonymous>)
+    at o (https://chatgpt.com/cdn/assets/2340486e-mv6mwwnc1v5j1b2x.js:29:128764)
+[14:30:24.170] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119440
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.172] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119453
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.173] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119482
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.173] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119511
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.174] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119539
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.175] [ERROR] Error: [signal] Cannot update signal value directly within React component
+    at SDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60849)
+    at c.set (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65372)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74236)
+    at Proxy.<anonymous> (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:71004)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119551
+    at ICe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:4578)
+    at Bs (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:10231)
+    at dl (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:65969)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119416)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903) undefined
+[14:30:24.176] [ERROR] Error: [signal] Must read signal with useObserve() or untracked() within React component
+    at xDe (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:60623)
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:66547
+    at https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:5:74131
+    at pin (https://chatgpt.com/cdn/assets/conversation-small-eyankihe6l6cjmrz.js:83:12248)
+    at s.<anonymous> (https://chatgpt.com/cdn/assets/conversation-small-eyankihe6l6cjmrz.js:83:12378)
+    at s.emit (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:59:137722)
+    at _x.publish (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:59:142003)
+    at VUn (https://chatgpt.com/cdn/assets/4813494d-eamos3dhhvrmpqs1.js:210:119733)
+    at M (https://chatgpt.com/cdn/assets/share._shareId.(_action)-er1gprwk.js:1:903)
+    at Yo (https://chatgpt.com/cdn/assets/2340486e-mv6mwwnc1v5j1b2x.js:36:48770) undefined
+[14:30:24.505] [ERROR]  ERROR  [Statsig] A networking error occurred during POST request to https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964224208&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=24&gz=1. NetworkError: NetworkError: https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964224208&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=24&gz=1 {
+  "error": {
+    "message": "Could not parse your authentication token. Please try signing in again.",
+    "type": null,
+    "code": "unauthorized_unknown",
+    "param": null
+  },
+  "status": 401
+} NetworkError: NetworkError: https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964224208&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=24&gz=1 {
+  "error": {
+    "message": "Could not parse your authentication token. Please try signing in again.",
+    "type": null,
+    "code": "unauthorized_unknown",
+    "param": null
+  },
+  "status": 401
+}
+    at e.default.<anonymous> (https://chatgpt.com/cdn/assets/2340486e-mv6mwwnc1v5j1b2x.js:29:131688)
+    at Generator.next (<anonymous>)
+    at o (https://chatgpt.com/cdn/assets/2340486e-mv6mwwnc1v5j1b2x.js:29:128764)
+
+=== Network Activity (18 entries) ===
+[14:30:23.570] 200 GET  [fetch]  https://chatgpt.com/backend-api/user_granular_consent (23ms)
+[14:30:23.571] 200 GET  [fetch]  https://chatgpt.com/backend-api/accounts/optimized/check (29ms)
+[14:30:23.572] 200 GET  [fetch]  https://chatgpt.com/backend-api/me (29ms)
+[14:30:23.573] 200 GET  [fetch]  https://chatgpt.com/backend-api/accounts/check/v4-2023-04-27?timezone_offset_min=-180 (29ms)
+[14:30:23.644] 200 GET  [fetch]  https://chatgpt.com/ces/v1/projects/oai/settings (7ms)
+[14:30:23.581] 401 POST [fetch]  https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964223577&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=4&gz=1 (493ms)
+[14:30:24.133] 401 POST [fetch]  https://chatgpt.com/ces/v1/i (347ms)
+[14:30:24.204] 401 POST [fetch]  https://chatgpt.com/backend-api/sentinel/chat-requirements/prepare (276ms)
+[14:30:24.130] 401 POST [fetch]  https://chatgpt.com/ces/v1/p (351ms)
+[14:30:24.209] 401 POST [fetch]  https://chatgpt.com/ces/v1/rgstr?k=client-nb0qtYlZuy2tCMN5s5ncnuIBCJncjRViT0IzFm7GqST&st=javascript-client&sv=3.32.6&t=1788964224208&sid=c3a8d699-a857-4c79-a614-806b3818e87a&ec=24&gz=1 (272ms)
+[14:30:24.127] 401 GET  [fetch]  https://chatgpt.com/backend-api/settings/user (380ms)
+[14:30:24.450] 401 GET  [fetch]  https://chatgpt.com/backend-api/system_hints?mode=plugins (251ms)
+[14:30:24.450] 401 GET  [fetch]  https://chatgpt.com/backend-api/system_hints?mode=basic (252ms)
+[14:30:24.533] 401 GET  [fetch]  https://chatgpt.com/backend-api/pins (169ms)
+[14:30:24.453] 401 GET  [fetch]  https://chatgpt.com/backend-api/models?iim=false&is_gizmo=false&supports_model_picker_upgrade_presets=true (249ms)
+[14:30:24.450] 401 GET  [fetch]  https://chatgpt.com/backend-api/system_hints?mode=custom_agents (253ms)
+[14:30:24.748] 401 GET  [fetch]  https://chatgpt.com/backend-api/settings/is_adult (137ms)
+[14:30:24.533] 401 GET  [fetch]  https://chatgpt.com/backend-api/calpico/chatgpt/rooms/summary?limit=10&include_pinned=true (352ms)
+
+=== End of DevTools Log ===
